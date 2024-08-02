@@ -1,0 +1,19 @@
+
+.cars{
+    display: flex;
+align-items: center;
+justify-content: center;
+gap: 50px;
+margin-top: 60px;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.auto-block{
+    background: rgb(132, 252, 254);
+    padding: 20px 20px;
+    border-radius: 20px;
+}
